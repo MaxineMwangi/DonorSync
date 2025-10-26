@@ -1,0 +1,16 @@
+<resources>
+    <!-- Parent theme for the app -->
+    <style name="Theme.donorsync" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Add other items for your theme -->
+    </style>
+
+    <!-- No Action Bar theme (for main activity) -->
+    <style name="Theme.donorsync.NoActionBar" parent="Theme.donorsync">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
