@@ -12,4 +12,29 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <!-- Header -->
+    <string name="close">Close</string>
+    <string name="post_drive_title">Post a Blood Drive</string>
+
+    <!-- Form Labels -->
+    <string name="venue_label">1. Venue of drive</string>
+    <string name="date_label">2. Date drive is to be held</string>
+    <string name="time_label">3. Timings of the drive</string>
+    <string name="eligibility_label">4. Donation eligibility</string>
+    <string name="requirements_label">5. Requirements to bring along</string>
+    <string name="notes_label">6. Additional Notes</string>
+
+    <!-- Form Hints -->
+    <string name="venue_hint">Enter venue name</string>
+    <string name="date_hint">Select the drive date</string>
+    <string name="time_hint">Enter start and end time</string>
+    <string name="eligibility_hint">Who can donate? (e.g., 18+, 50kg min)</string>
+    <string name="requirements_hint">What should donors bring? (e.g., ID card)</string>
+    <string name="notes_hint">Any additional notes...</string>
+
+    <!-- Buttons -->
+    <string name="post_drive_btn">Post Drive</string>
 </resources>

@@ -24,6 +24,14 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="Theme.DonorSync" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/maroon</item>
+        <item name="colorPrimaryVariant">@color/maroon_dark</item>
+        <item name="colorSecondary">@color/red</item>
+        <item name="android:statusBarColor">@color/maroon_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+
     <!-- Other overlay themes for customization -->
     <style name="Theme.SplashScreen.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="Theme.SplashScreen.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
