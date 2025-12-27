@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294907344338",
+    "project_id": "donorsyncdb",
+    "storage_bucket": "donorsyncdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294907344338:android:d8959cc145db54cad9440b",
+        "android_client_info": {
+          "package_name": "com.example.donorsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzjGKqpdH9sNIn-U27mDCdk0TWYHTufU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
